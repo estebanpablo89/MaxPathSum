@@ -1,0 +1,6 @@
+E:\Pablo\programacion\Calculo\CalculoTriangular\CalculoTriangular\bin\Debug\CalculoTriangular.exe.config
+E:\Pablo\programacion\Calculo\CalculoTriangular\CalculoTriangular\bin\Debug\CalculoTriangular.exe
+E:\Pablo\programacion\Calculo\CalculoTriangular\CalculoTriangular\bin\Debug\CalculoTriangular.pdb
+E:\Pablo\programacion\Calculo\CalculoTriangular\CalculoTriangular\obj\Debug\CalculoTriangular.csprojResolveAssemblyReference.cache
+E:\Pablo\programacion\Calculo\CalculoTriangular\CalculoTriangular\obj\Debug\CalculoTriangular.exe
+E:\Pablo\programacion\Calculo\CalculoTriangular\CalculoTriangular\obj\Debug\CalculoTriangular.pdb
